@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sibtain
+- 👋 Hi, I’m @Sibtain, i'm 16 
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Python Intermediate
 - 📫 You can contact me on devsibtain@gmail.com
